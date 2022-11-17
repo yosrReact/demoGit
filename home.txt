@@ -1,7 +1,2 @@
 Hello formation
 salut
-welcome
-bonjour dans la branche
-bonjour dans la branche
-aaa
-bbb
